@@ -1,2 +1,6 @@
 This is test one txt
 Form Mac OS
+
+git remote add origin https://github.com/malghamd333333/test_two_account.git
+https://github.com/malghamd333333/test_two_account.git
+
